@@ -13,3 +13,7 @@ Prototype / WIP / MVP (running locally on Termux)
 
 ## How to run
 Basic steps.
+A lightweight CLI tool for querying Base onchain data via JSON-RPC, built and tested locally on Termux.
+
+
+A minimal Base RPC CLI tool built on Termux, allowing developers to query onchain data directly via JSON-RPC without API keys.
